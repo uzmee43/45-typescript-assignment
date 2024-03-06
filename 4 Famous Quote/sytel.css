@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h3{ 
+    color: red;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+    
+    
+    
+
+}
+
+#container{
+    color: rgb(22, 22, 36);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+
+    
+}
+
